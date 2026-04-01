@@ -131,8 +131,3 @@ sh get-docker.sh
 - [ ] Docker terpasang bila diperlukan
 
 ---
-
-## 📌 Catatan
-- Bagian yang dapat diklik memakai elemen `<details>` agar README lebih rapi.
-- Badge di bagian atas berfungsi sebagai navigasi cepat ke setiap section.
-- Struktur ini cocok untuk README GitHub, dokumentasi internal, atau catatan deploy pribadi.
