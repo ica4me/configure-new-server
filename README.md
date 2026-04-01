@@ -31,7 +31,7 @@
 ## ✨ Ringkasan
 Panduan ini dipakai untuk menyiapkan VPS baru berbasis **Debian / Ubuntu** agar cepat siap digunakan: mulai dari rebuild OS, perbaikan `sudo`, pengaturan DNS, instalasi paket dasar, konfigurasi SSH, sinkronisasi waktu, pembuatan swap, hingga instalasi Docker.
 
-> 💡 **Tips:** Jalankan perintah satu per satu dan pastikan Anda memahami efeknya sebelum mengeksekusi script dari internet.
+> 
 
 ---
 
